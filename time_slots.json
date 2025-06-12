@@ -32,7 +32,7 @@
   {
     "id": "after_work",
     "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-    "start_time": "17:00",
+    "start_time": "16:00",
     "end_time": "19:00"
   }
 ]
