@@ -13,7 +13,7 @@
   },
   {
     "id": "evening_rush",
-    "days_of_week": ["Friday", "Saturday", "Sunday"],
+    "days_of_week": ["Thursday","Friday", "Saturday", "Sunday"],
     "start_time": "16:00",
     "end_time": "19:00"
   },
