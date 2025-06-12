@@ -6,6 +6,12 @@
     "end_time": "16:00"
   },
   {
+    "id": "after_school",
+    "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
     "id": "friday_evening",
     "days_of_week": ["Friday", "Saturday"],
     "start_time": "19:00",
