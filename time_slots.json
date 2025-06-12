@@ -18,7 +18,7 @@
     "end_time": "22:00"
   },
   {
-    "id": "evening_rush",
+    "id": "taekwondo",
     "days_of_week": ["Friday", "Saturday", "Sunday"],
     "start_time": "16:00",
     "end_time": "19:00"
