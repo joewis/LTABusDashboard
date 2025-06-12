@@ -23,7 +23,7 @@
   },
   {
     "destination_name": "Siglap",
-    "time_slot_ids": ["friday_evening"],
+    "time_slot_ids": ["friday_evening","after_work"],
     "bus_stops": [
       {
         "BusStopCode": "84071",
