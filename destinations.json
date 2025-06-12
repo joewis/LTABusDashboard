@@ -111,6 +111,23 @@
       }
     ]
   },
+    {
+    "destination_name": "Bugis",
+    "time_slot_ids": ["after_school"],
+    "bus_stops": [
+      {
+        "BusStopCode": "84071",
+        "Services": [
+          {
+            "ServiceNo": "12"
+          },
+          {
+            "ServiceNo": "12e"
+          }
+        ]
+      }
+    ]
+  },
   {
     "destination_name": "Tana Merah MRT",
     "time_slot_ids": ["school_morning"],
