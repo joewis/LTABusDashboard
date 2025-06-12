@@ -1,0 +1,32 @@
+[
+  {
+    "id": "weekend_shopping",
+    "days_of_week": ["Saturday", "Sunday"],
+    "start_time": "10:00",
+    "end_time": "16:00"
+  },
+  {
+    "id": "friday_evening",
+    "days_of_week": ["Friday", "Saturday"],
+    "start_time": "19:00",
+    "end_time": "22:00"
+  },
+  {
+    "id": "evening_rush",
+    "days_of_week": ["Friday", "Saturday", "Sunday"],
+    "start_time": "16:00",
+    "end_time": "19:00"
+  },
+  {
+    "id": "morning_commute",
+    "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "start_time": "07:30",
+    "end_time": "09:00"
+  },
+  {
+    "id": "school_morning",
+    "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "start_time": "06:00",
+    "end_time": "07:45"
+  }
+]

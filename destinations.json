@@ -1,0 +1,139 @@
+[
+  {
+    "destination_name": "Parkway Parade",
+    "time_slot_ids": ["weekend_shopping"],
+    "bus_stops": [
+      {
+        "BusStopCode": "84671",
+        "Services": [
+          {
+            "ServiceNo": "48"
+          }
+        ]
+      },
+      {
+        "BusStopCode": "84071",
+        "Services": [
+          {
+            "ServiceNo": "47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "destination_name": "Siglap",
+    "time_slot_ids": ["friday_evening"],
+    "bus_stops": [
+      {
+        "BusStopCode": "84071",
+        "Services": [
+          {
+            "ServiceNo": "12"
+          }
+        ]
+      },
+      {
+        "BusStopCode": "94049",
+        "Services": [
+          {
+            "ServiceNo": "10"
+          },
+          {
+            "ServiceNo": "13"
+          },
+          {
+            "ServiceNo": "14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "destination_name": "Katong",
+    "time_slot_ids": ["evening_rush"],
+    "bus_stops": [
+      {
+        "BusStopCode": "84071",
+        "Services": [
+          {
+            "ServiceNo": "12"
+          },
+          {
+            "ServiceNo": "47"
+          }
+        ]
+      },
+      {
+        "BusStopCode": "94049",
+        "Services": [
+          {
+            "ServiceNo": "10"
+          },
+          {
+            "ServiceNo": "14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "destination_name": "Jas Work / Popo",
+    "time_slot_ids": ["morning_commute"],
+    "bus_stops": [
+      {
+        "BusStopCode": "84079",
+        "Services": [
+          {
+            "ServiceNo": "12"
+          },
+          {
+            "ServiceNo": "47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "destination_name": "School",
+    "time_slot_ids": ["school_morning"],
+    "bus_stops": [
+      {
+        "BusStopCode": "94041",
+        "Services": [
+          {
+            "ServiceNo": "10"
+          },
+          {
+            "ServiceNo": "14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "destination_name": "Tana Merah MRT",
+    "time_slot_ids": ["school_morning"],
+    "bus_stops": [
+      {
+        "BusStopCode": "84079",
+        "Services": [
+          {
+            "ServiceNo": "12"
+          },
+          {
+            "ServiceNo": "38"
+          }
+        ]
+      },
+      {
+        "BusStopCode": "84679",
+        "Services": [
+          {
+            "ServiceNo": "48"
+          }
+        ]
+      }
+    ]
+  }
+]
