@@ -50,7 +50,7 @@
     ]
   },
   {
-    "destination_name": "Katong / i12",
+    "destination_name": "Katong",
     "time_slot_ids": ["evening_rush"],
     "bus_stops": [
       {
