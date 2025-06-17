@@ -150,6 +150,42 @@
             "ServiceNo": "48"
           }
         ]
+      },
+  {
+    "destination_name": "Bayshore MRT",
+    "time_slot_ids": ["competition_training"],
+    "bus_stops": [
+      {
+        "BusStopCode": "84671",
+        "Services": [
+          {
+            "ServiceNo": "48"
+          }
+        ]
+      },
+      {
+        "BusStopCode": "94049",
+        "Services": [
+          {
+            "ServiceNo": "10"
+          },
+          {
+            "ServiceNo": "13"
+          },
+          {
+            "ServiceNo": "14"
+          },
+          {
+            "ServiceNo": "43"
+          },
+          {
+            "ServiceNo": "55"
+          },
+          {
+            "ServiceNo": "137"
+          }
+          
+        ]
       }
     ]
   }
