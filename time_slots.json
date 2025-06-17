@@ -30,6 +30,12 @@
     "end_time": "09:00"
   },
   {
+    "id": "competition_training",
+    "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "start_time": "09:00",
+    "end_time": "11:30"
+  },
+  {
     "id": "school_morning",
     "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "start_time": "06:00",
@@ -40,11 +46,5 @@
     "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "start_time": "17:45",
     "end_time": "18:30"
-  },
-  {
-    "id": "competition_training",
-    "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-    "start_time": "09:00",
-    "end_time": "11:30"
   }
 ]
