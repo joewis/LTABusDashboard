@@ -155,7 +155,7 @@
   },
   {
     "destination_name": "Bayshore MRT",
-    "time_slot_ids": ["school_morning"],
+    "time_slot_ids": ["competition_training"],
     "bus_stops": [
       {
         "BusStopCode": "84671",
