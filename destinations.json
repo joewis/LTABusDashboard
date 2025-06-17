@@ -133,6 +133,14 @@
     "time_slot_ids": ["school_morning"],
     "bus_stops": [
       {
+        "BusStopCode": "84679",
+        "Services": [
+          {
+            "ServiceNo": "48"
+          }
+        ]
+      },
+      {
         "BusStopCode": "84079",
         "Services": [
           {
@@ -140,14 +148,6 @@
           },
           {
             "ServiceNo": "38"
-          }
-        ]
-      },
-      {
-        "BusStopCode": "84679",
-        "Services": [
-          {
-            "ServiceNo": "48"
           }
         ]
       }
