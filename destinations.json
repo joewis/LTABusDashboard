@@ -53,6 +53,17 @@
     "destination_name": "Katong",
     "time_slot_ids": ["taekwondo"],
     "bus_stops": [
+         {
+          "BusStopCode": "84071",
+          "Services": [
+            {
+              "ServiceNo": "12"
+            },
+            {
+              "ServiceNo": "47"
+            }
+          ]
+        },     
         {
         "BusStopCode": "94049",
         "Services": [
@@ -61,17 +72,6 @@
           },
           {
             "ServiceNo": "14"
-          }
-        ]
-      },
-      {
-        "BusStopCode": "84071",
-        "Services": [
-          {
-            "ServiceNo": "12"
-          },
-          {
-            "ServiceNo": "47"
           }
         ]
       }
