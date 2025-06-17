@@ -43,7 +43,7 @@
   },
   {
     "id": "competition_training",
-    "days_of_week": ["Tuesday"],
+    "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "start_time": "09:00",
     "end_time": "11:30"
   }
