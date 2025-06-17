@@ -150,7 +150,8 @@
             "ServiceNo": "48"
           }
         ]
-      },
+      }
+    },
   {
     "destination_name": "Bayshore MRT",
     "time_slot_ids": ["competition_training"],
