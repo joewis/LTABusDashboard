@@ -27,18 +27,24 @@
     "id": "morning_commute",
     "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "start_time": "07:30",
-    "end_time": "11:00"
+    "end_time": "09:00"
   },
   {
     "id": "school_morning",
     "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "start_time": "06:00",
-    "end_time": "11:45"
+    "end_time": "08:00"
   },
   {
     "id": "after_work",
     "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "start_time": "17:45",
     "end_time": "18:30"
+  },
+  {
+    "id": "competition_training",
+    "days_of_week": ["Saturday"],
+    "start_time": "09:00",
+    "end_time": "10:30"
   }
 ]
