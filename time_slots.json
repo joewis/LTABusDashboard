@@ -21,7 +21,7 @@
     "id": "taekwondo",
     "days_of_week": ["Friday", "Saturday", "Sunday"],
     "start_time": "16:00",
-    "end_time": "19:00"
+    "end_time": "17:45"
   },
   {
     "id": "morning_commute",
