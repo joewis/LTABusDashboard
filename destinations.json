@@ -78,15 +78,12 @@
     ]
   },
   {
-    "destination_name": "Jas Work / Popo",
+    "destination_name": "Jas Work",
     "time_slot_ids": ["morning_commute"],
     "bus_stops": [
       {
         "BusStopCode": "84079",
         "Services": [
-          {
-            "ServiceNo": "12"
-          },
           {
             "ServiceNo": "47"
           }
