@@ -82,10 +82,10 @@
     "time_slot_ids": ["morning_commute"],
     "bus_stops": [
       {
-        "BusStopCode": "84079",
+        "BusStopCode": "84671",
         "Services": [
           {
-            "ServiceNo": "47"
+            "ServiceNo": "48"
           }
         ]
       }
