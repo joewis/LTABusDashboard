@@ -105,7 +105,15 @@
             "ServiceNo": "14"
           }
         ]
-      }
+      },
+      {
+        "BusStopCode": "84679",
+        "Services": [
+          {
+            "ServiceNo": "48"
+          }
+        ]
+      }      
     ]
   },
     {
